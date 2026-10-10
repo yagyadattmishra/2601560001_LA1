@@ -1,0 +1,6 @@
+"OrderID","CustomerID","Product","Quantity","Price","CustomerID (Right)","CustomerName","City"
+1001,"C01","Laptop",1,800,"C01","Alice Smith","New York"
+1002,"C02","Mouse",2,25,"C02","Bob Jones","chicago"
+1003,"C03","Keyboard",1,50,"C03","Charlie Brown","Houston "
+1004,"C04","Monitor",,200,"C04","Diana Prince","Phoenix"
+1005,"C02","Headphones",1,75,"C02","Bob Jones","chicago"
